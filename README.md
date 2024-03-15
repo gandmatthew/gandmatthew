@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📱(Try Drawing on Android)[https://github.com/gandmatthew/Drawing-on-Android]! 
+- 📱[Try Drawing on Android](https://github.com/gandmatthew/Drawing-on-Android)! 
