@@ -1,4 +1,4 @@
-### Hello! I'm Matthew Gandasetiawan check out some of my projects where I aim to be as versatile in many areas!
+## Hello! I'm Matthew Gandasetiawan check out some of my projects where I aim to be as versatile in many areas!
 
 <!--
 **gandmatthew/gandmatthew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Try:
 
-- 📱[Try Drawing on Android](https://github.com/gandmatthew/Drawing-on-Android)!
-- 🔍[Try UCI Search Engine](https://github.com/gandmatthew/UCI-Search-Engine)!
-- 🍵[Try Drawing on Java](https://github.com/gandmatthew/Drawing-on-Windows)! 
+- 📱[Drawing on Android](https://github.com/gandmatthew/Drawing-on-Android)
+
+- 🔍[Try UCI Search Engine](https://github.com/gandmatthew/UCI-Search-Engine)
+
+- 🍵[Try Drawing on Java](https://github.com/gandmatthew/Drawing-on-Windows)
