@@ -1,7 +1,8 @@
 ## Hello! I'm Matthew Gandasetiawan, feel free to check out my projects,
 
 My Embedded Projects:
-- 📟[EEPROM-Tunes](https://github.com/gandmatthew/EEPROM-Tunes)
+- 🎶[EEPROM-Tunes](https://github.com/gandmatthew/EEPROM-Tunes)
+- 🗄️[Socket Storage](https://github.com/gandmatthew/Socket-Storage)
 
 My Applications:
 
