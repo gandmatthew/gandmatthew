@@ -1,6 +1,9 @@
 ## Hello! I'm Matthew Gandasetiawan, feel free to check out my projects,
 
-Try:
+My Embedded Projects:
+- 📟[EEPROM-Tunes](https://github.com/gandmatthew/EEPROM-Tunes)
+
+My Applications:
 
 - 💬[MailMessage](https://github.com/gandmatthew/MailMessage)
 
