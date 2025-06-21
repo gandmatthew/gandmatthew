@@ -1,7 +1,9 @@
 ## Matthew Gandasetiawan's Github Repository
 
 Embedded Projects:
+
 - 🎶[EEPROM-Tunes](https://github.com/gandmatthew/EEPROM-Tunes)
+
 - 🗄️[Socket Storage](https://github.com/gandmatthew/Socket-Storage)
 
 Applications:
