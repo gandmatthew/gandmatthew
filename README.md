@@ -1,6 +1,7 @@
 ## Matthew Gandasetiawan's Github Repository
 
 Embedded Projects:
+- [Wyze-Storage](https://github.com/gandmatthew/Wyze-Storage)
 
 - 🎶[EEPROM-Tunes](https://github.com/gandmatthew/EEPROM-Tunes)
 
